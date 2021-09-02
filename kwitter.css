@@ -1,0 +1,11 @@
+html, body{
+    height:100%;
+    margin: 0;
+    text-align: center;
+}
+
+body{
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(14,221,237,1) 35%, rgba(139,23,221,1) 100%);
+font-family: 'Roboto Condensed', sans-serif;
+}
